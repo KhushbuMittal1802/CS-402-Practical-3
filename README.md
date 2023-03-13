@@ -1,1 +1,1 @@
-# practical-3-CS-452
+# practical-3-CS-402
